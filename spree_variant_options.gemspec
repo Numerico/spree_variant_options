@@ -20,7 +20,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   # Runtime
-  s.add_dependency('spree_core', '~> 1.2.0')
+  s.add_dependency('spree_core', '~> 2.0.3')
 
   # Development
   s.add_development_dependency('spree_sample',     '~> 2.0.3')
